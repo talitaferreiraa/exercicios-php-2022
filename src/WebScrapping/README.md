@@ -7,7 +7,7 @@ Para a resolução do exercício, você pode alterar qualquer arquivo dentro da 
 ### Como rodar
 
 Dependências:
-
+leia de novo socorro
 * PHP - linha de comando
 * Extensões do PHP: ZIP, DOM, XML
 * [Composer](https://getcomposer.org/)
